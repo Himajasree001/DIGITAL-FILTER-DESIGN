@@ -26,6 +26,7 @@ This task helped reinforce the practical understanding of how digital filters ar
 
 *OUTPUT*
 
+![Image](https://github.com/user-attachments/assets/f8f91033-91ff-4737-82d5-06caac72df53)
 
 
 
